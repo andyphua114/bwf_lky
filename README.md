@@ -1,4 +1,4 @@
-## Exploratory Data Analysis on Singapore's First Ever Badminton World Champion
+### Exploratory Data Analysis on Singapore's First Ever Badminton World Champion
 
 In this project, I was inspired by Loh Kean Yew's historic achievement of being the first Singaporean to win a BWF World Championships title at the BWF World Championships 2021 held in Huelva, Spain, I wanted to do some simple analysis on his meteoric rise to the top of the badminton world.
 
